@@ -14,6 +14,6 @@ Con el fin de automatizar los efectos de texto muy populares utilizados en Tikto
 - Adición de subtítulos en el vídeo
 - Adición de barrido de texto tipo karaoke
 6. ❎ Extraer instrumentos y voz en canciones
-7. ❎ Automátziar la creación de karaokes
+7. ❎ Automátizar la creación de karaokes
 
 ![Screenshot_5](https://user-images.githubusercontent.com/123985830/220797996-e770daf4-cc5a-44b0-b1d7-af34232383a9.png)
